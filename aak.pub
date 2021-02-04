@@ -1,0 +1,17 @@
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOFhZhGRctKOeF2523bAeqMgCYYsUOah8RGcE0HqUFG8 aakritimittal237@gmail.com
+
+
+aakriti0
+aakriti0
+Generating public/private ed25519 key pair
+
+
+
+
+
+
+
+
+
+
+ssh-keygen -t ed25519 -C aakritimittal237@gmail.com
